@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kjozsa-jenkins-mcp-badge.png)](https://mseep.ai/app/kjozsa-jenkins-mcp)
+
 # Jenkins MCP
 [![smithery badge](https://smithery.ai/badge/@kjozsa/jenkins-mcp)](https://smithery.ai/server/@kjozsa/jenkins-mcp)
 MCP server for managing Jenkins operations.
